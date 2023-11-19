@@ -31,7 +31,14 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
+
+![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsidikrofi&show_icons=true&locale=en&layout=compact" alt="ahmadsidikrofi" /></p>
 
