@@ -1,7 +1,7 @@
 <head>
     <style>
         .github-profile-trophy {
-            margin-bottom: 20px; /* Sesuaikan dengan nilai yang Anda inginkan */
+            margin-left: 25px;
         }
     </style>
 </head>
@@ -11,7 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsidikrofi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsidikrofi" /> </p>
 
-/* <p align="left" github-profile-trophy> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi" alt="ahmadsidikrofi" /></a> </p> */
 <p align="left" github-profile-trophy>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi" alt="ahmadsidikrofi" />
