@@ -1,5 +1,5 @@
-<h1 align="center">Get to know Rofi👋</h1>
-<h3 align="center">I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for teaching and creating content to share my knowledge to anyone willing to learn. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️</h3>
+<h1>Get to know Rofi👋</h1>
+<h3>I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for teaching and creating content to share my knowledge to anyone willing to learn. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsidikrofi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsidikrofi" /> </p>
 
