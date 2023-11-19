@@ -29,6 +29,7 @@
 <h5 align="left">BackEnd Tech</h5>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsidikrofi&show_icons=true&locale=en&layout=compact" alt="ahmadsidikrofi" /></p>
