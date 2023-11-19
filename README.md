@@ -1,9 +1,22 @@
+<head>
+    <style>
+        .github-profile-trophy {
+            margin-bottom: 20px; /* Sesuaikan dengan nilai yang Anda inginkan */
+        }
+    </style>
+</head>
+
 <h1>Get to know Rofi👋</h1>
 <h3>I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for teaching and creating content to share my knowledge to anyone willing to learn. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsidikrofi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsidikrofi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi" alt="ahmadsidikrofi" /></a> </p>
+/* <p align="left" github-profile-trophy> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi" alt="ahmadsidikrofi" /></a> </p> */
+<p align="left" github-profile-trophy>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi" alt="ahmadsidikrofi" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
