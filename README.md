@@ -6,12 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi&theme=onedark" alt="ahmadsidikrofi" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi&rank=S,AAA" alt="ahmadsidikrofi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadsidikrofi&theme=onedark&rank=-C,-B" alt="ahmadsidikrofi" />
   </a>
 </p>
 
