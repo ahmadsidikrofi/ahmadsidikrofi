@@ -1,6 +1,6 @@
 <h1>Get to know Rofi👋</h1>
 
-<p>I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for teaching to share my knowledge to anyone willing to learn. Check out my projects down below, and kindly leave a star (or "like 👍") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️</p>
+<p>Software engineer with a strong interest in system architecture, data flow control, and scalable backend systems. Experienced in building data-driven applications, API services, and experimenting with performance optimization under high load.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsidikrofi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsidikrofi" /> </p>
 
